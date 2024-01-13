@@ -8,5 +8,5 @@ ventana.configure(background='#afffcd')
 label1 = tk.Label(ventana, text="Este es mi label")
 
 label1.pack()
-
+#hola mundo
 ventana.mainloop()
